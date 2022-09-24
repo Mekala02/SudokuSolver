@@ -3,6 +3,7 @@
 
 Usage example:
 
+```python
 puzzle = [
     [0,0,2,0,0,4,0,7,5],
     [0,7,5,0,0,0,0,8,0],
@@ -19,3 +20,4 @@ solver = sudoku_solver()
 solver.new_puzzle(puzzle)
 solved = solver.solve()
 print(solved)
+```

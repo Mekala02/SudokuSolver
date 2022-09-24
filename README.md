@@ -1,5 +1,4 @@
-# SudokuSolver
- Sudoku Solver
+# Sudoku Solver
 
 Usage example:
 

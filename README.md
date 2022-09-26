@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-Usage example:
+<h3>Usage example:</h3>
 
 ```python
 puzzle = [
